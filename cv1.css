@@ -1,0 +1,42 @@
+a{color:white;}
+
+header {
+	text-align:center;
+	color:white;
+	background-color: darkmagenta;
+	margin :0px;
+	padding:0px;
+}
+.chan {
+	color:black;
+
+	padding:10px 10px 10px 70px;
+}
+
+em{
+	text-align:right;
+	border:solid;
+}
+html {
+	background-color:paleturquoise;
+		border-left: 30px black solid;
+		border-right:30px black solid;
+width:1000px;
+height:1100px;
+	font-family:"Trebuchet MS";
+font-weight:bold;
+}
+
+
+footer {
+	
+	font-family:"Trebuchet MS";
+}
+p.lign {
+display:inline;
+
+}
+footer {
+
+	background-color: darkmagenta;
+}
